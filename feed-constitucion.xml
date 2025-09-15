@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcast Constitución Española</title>
+    <link>https://drive.google.com</link>
+    <description>Audios personales para repasar la Constitución Española</description>
+    <language>es</language>
+    
+  <image>
+      <url>https://drive.google.com/uc?export=download&amp;id=1xC-qBtSK4JPGWQEJOIlMOWXDlh1yUPug</url>
+      <title>Constitución Española - Bloque 1 - Tema 1</title>
+      <link>https://drive.google.com</link>
+    </image>
+
+    <item>
+      <title>Constitución 00. Resumen art. 1 al 38</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CRumK4pioIg934sds2NlbqXvlHCWpF8M" type="audio/mpeg" />
+      <guid>constitucion-00</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Constitución CE 01. Claves de la Constitución Española de 1978</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iDeQHnKeS30TM-Xi1J40BwftEYEqX5X0" type="audio/mpeg" />
+      <guid>constitucion-01</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:05 +0200</pubDate>
+    </item>
+
+
+  </channel>
+</rss>
+
+
+
+
+
+
+
