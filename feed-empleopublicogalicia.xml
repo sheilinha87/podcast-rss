@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcast Empleo público de Galicia</title>
+    <link>https://drive.google.com</link>
+    <description>Audios personales para repasar la ley de Empleo público de Galicia</description>
+    <language>es</language>
+    
+  <image>
+      <url>https://drive.google.com/uc?export=download&amp;id=10gxWYzKtHUNDY1W5loJLbqg5OJxkoTyj</url>
+      <title>Empleo público - Bloque 2 - Tema 6</title>
+      <link>https://drive.google.com</link>
+    </image>
+
+    <item>
+      <title>02. Título I - art. 1 y 2</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i28_K2DSX5e9qPpUputXAJViEe4QLy_3" type="audio/mpeg" />
+      <guid>empleopublico-00</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>03. Título I - art 3 y 4</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K0IN5Dgq6cxX5owyysc2QmTRNr0yy3YV" type="audio/mpeg" />
+      <guid>empleopublico-01</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:01 +0200</pubDate>
+    </item>
+
+
+  </channel>
+</rss>
+
+
+
+
+
+
+
