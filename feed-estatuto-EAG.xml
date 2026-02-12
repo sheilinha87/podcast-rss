@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcast Estatuto de Autonomía de Galicia</title>
+    <link>https://drive.google.com</link>
+    <description>Audios personales para repasar el Estatuto de Autonomía de Galicia</description>
+    <language>es</language>
+    
+  <image>
+      <url>https://drive.google.com/uc?export=download&amp;id=1oU-Q8W3dF7C7zTxKtSg2Jp_8jbSH_Dm-</url>
+      <title>Estatuto de Autonomía - Bloque 1 - Tema 2</title>
+      <link>https://drive.google.com</link>
+    </image>
+
+    <item>
+      <title>01._Introducción</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gcPtaWaehLRRh-fOGOEU_WaLwY7PCDno" type="audio/mpeg" />
+      <guid>eag-00</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>02._Título_preliminar_-_art_1_y_2</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y4h0O8Ox6Z1xfGzF1bRj-ztt7nDFDeFy" type="audio/mpeg" />
+      <guid>eag-01</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:05 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>02._Título_preliminar_-_art_3_y_4</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wcK3bak0pzAPZCACsClkD5cPlXu2crmI" type="audio/mpeg" />
+      <guid>eag-02</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:06 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>03._Título_preliminar_-_art_5_y_6</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nDicTkDoqYpuSMhpimhdnbR1QrWWxSSE" type="audio/mpeg" />
+      <guid>eag-03</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:07 +0200</pubDate>
+    </item>
+
+
+
+
+
+
+
+  </channel>
+</rss>
+
+
+
+
+
+
+
