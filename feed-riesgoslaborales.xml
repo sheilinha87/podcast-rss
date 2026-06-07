@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcast Ley Prevención riesgos laborales</title>
+    <link>https://drive.google.com</link>
+    <description>Audios personales para repasar la Ley de Prevención riesgos laborales</description>
+    <language>es</language>
+    
+  <image>
+      <url>https://drive.google.com/uc?export=download&amp;id=13V4YC2X8G_XaGlgKhWWeIcqMtvedZvoY</url>
+      <title>Ley Prevención riesgos laborales - Bloque 1 - Tema 7</title>
+      <link>https://drive.google.com</link>
+    </image>
+
+    <item>
+      <title>01. Resumen prevención de riesgos laborales</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QHS4jdRbcca3BJM5EHBRqt9LpqEdog9J" type="audio/mpeg" />
+      <guid>riesgoslaborales-00</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>02. Resumen LCSP - Preliminar - art 1 a 3</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11SfNH77xjx7SC53HMF1Rmbu7jmi6Mn36" type="audio/mpeg" />
+      <guid>riesgoslaborales-01</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:01 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>03. Resumen LCSP - Preliminar - Tipos de contratos</title>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pn47WJX1iiXF4bQ3uhHa0nRSMNjY6G1-" type="audio/mpeg" />
+      <guid>riesgoslaborales-02</guid>
+      <pubDate>Mon, 15 Sep 2025 12:00:02 +0200</pubDate>
+    </item>
+
+
+
+  </channel>
+</rss>
+
+
+
+
+
+
+
